@@ -1,6 +1,6 @@
 # Edge-Detection
 
-Press plus and minus to change the threshold.
+Press a and s to adjust the threshold.
 
 Libraries to install:
 pip install pygame and 
