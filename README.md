@@ -2,8 +2,8 @@
 
 Press plus and minus to change the threshold.
 
-To use:
-pip install pygame
+Libraries to install:
+pip install pygame and 
 pip install opencv-python
 
 Run:
