@@ -3,7 +3,7 @@
 Go into files to change image resolution, w is width and h is height
 
 
-Main.py:
+Main.py and Original.py:
 
 Press a and s to adjust the threshold.
 
