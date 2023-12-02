@@ -17,6 +17,7 @@ Press r to change image filter, rgb or bgr.
 Press t and y to adjust number of threads.
 
 
+
 Libraries to install:
 pip install pygame and 
 pip install opencv-python
