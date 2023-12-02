@@ -1,6 +1,12 @@
 # Edge-Detection
 
+Main.py:
 Press a and s to adjust the threshold.
+
+Main2.py:
+Press a and s to adjust threshold.
+Press r to change image filter, rgb or bgr.
+Press t and y to adjust number of threads.
 
 Libraries to install:
 pip install pygame and 
